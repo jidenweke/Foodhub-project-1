@@ -8,7 +8,7 @@ Junk foods has immersely made people unhealthy. According to USA Today, 68.6% of
 
 The Solution
 
-Foodhub provides 14 differnt types of cusines from 178 restaurants who prepare world class delicacies with lots of health benefits.
+Foodhub provides 14 different types of cusines from 178 restaurants who prepare world class delicacies with lots of health benefits.
 
 Business Context
 
@@ -24,17 +24,28 @@ Perform data analysis on dataset provided from the database and help company mak
 Libraries used
 
 NumPy
+
 Pandas
+
 Matplotlib
+
 Seaborn
+
 Plotly
+
 Scikit-learn
+
 
 Exploratory Data analysis
 
 Customer Profiling
+
 Bagging Classifiers (Bagging and Random Forest)
+
 Boosting Classifier (AdaBoost,Gradient Boosting,XGBoost)
+
 Stacking Classifier
+
 Hyperparameter Tuning using GridSearchCV
+
 Business insights
